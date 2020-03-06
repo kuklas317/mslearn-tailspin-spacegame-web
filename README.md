@@ -1,5 +1,4 @@
-
-  [![Build Status](https://kukprog.visualstudio.com/Create%20a%20build%20pipeline%20with%20Azure%20Pipelines/_apis/build/status/kuklas317.mslearn-tailspin-spacegame-web?branchName=master)](https://kukprog.visualstudio.com/Create%20a%20build%20pipeline%20with%20Azure%20Pipelines/_build/latest?definitionId=6&branchName=master)
+[![Build Status](https://kukprog.visualstudio.com/Create%20a%20build%20pipeline%20with%20Azure%20Pipelines/_apis/build/status/kuklas317.mslearn-tailspin-spacegame-web?branchName=master)](https://kukprog.visualstudio.com/Create%20a%20build%20pipeline%20with%20Azure%20Pipelines/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
